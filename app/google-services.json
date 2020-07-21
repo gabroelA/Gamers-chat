@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094509814847",
+    "firebase_url": "https://gamerschat-be999.firebaseio.com",
+    "project_id": "gamerschat-be999",
+    "storage_bucket": "gamerschat-be999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094509814847:android:301614b669c837e3a1048a",
+        "android_client_info": {
+          "package_name": "com.example.gamerschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094509814847-evb15jsit87nl1lni5o6mgrdbkmuh8c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamerschat",
+            "certificate_hash": "09d600577a26f76521a9b43d2dd0a2efb55cd941"
+          }
+        },
+        {
+          "client_id": "1094509814847-d2i4tv7h0t8in5peq2f4i2f8rmu6p4ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQEblhkAGFv6zhrRMhj3O56sZ6iW1O6Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094509814847-d2i4tv7h0t8in5peq2f4i2f8rmu6p4ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
